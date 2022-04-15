@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.becommerce
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, assertj, http-client, jackson-databind, java, java-application, junit, lombok, maven, mockito, netty-server, openapi, readme, shade, slf4j-simple, swagger-ui, yaml]
